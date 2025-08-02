@@ -32,7 +32,7 @@ A web application that predicts house prices based on user input features using 
 - scikit-learn
 - pandas, numpy
 - Flask / Streamlit (for web interface)
-- HTML/CSS (optional for custom frontend)
+- HTML/CSS (for custom frontend)
 
 ---
 
